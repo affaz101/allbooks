@@ -1,10 +1,13 @@
-package r;
+package com;
+
+
 
 public class Main {
 
   public static void main(String[] args) {
   
      /*
+     TTRA
      
      Symbol Value
 I 1
@@ -20,7 +23,7 @@ Input: s = "III"
 Output: 3
 Example 2:
 Input: s = "IV"
-Output: 4
+Output: "4
 Example 3:
 Input: s = "IX"
 Output: 9
@@ -69,7 +72,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
       r = one(c[1]);
       r += one(c[0]);
       //System.out.println("jog");
-    }else if(c){
+    }else{
       r = one(c[1]);
       r -= one(c[0]);
       //System.out.println("biyog");
