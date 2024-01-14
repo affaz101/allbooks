@@ -9,7 +9,7 @@ public class Main {
      /*
      TTRA
      BTS2
-     Symbol Value
+     Symbol Value jdi djd
 I 1
 V 5
 X 10
@@ -21,15 +21,15 @@ M 1000
 Example 1:
 Input: s = "III"
 Output: 3
-Example 2:
-Input: s = "IV"
-Output: "4
+jExample 2:
+usInput: s = "IV"
+uOutput: "4
 Example 3:
 Input: s = "IX"
-Output: 9
+uOutput: 9
 Example 4:
 Input: s = "LVIII"
-Output: 58
+hOutput: 58
 Explanation: L = 50, V= 5, III = 3.
 Example 5:
 Input: s = "MCMXCIV"
@@ -37,7 +37,7 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
      w h h 6
      
-     ttr
+     ttr1
      huuuuuu
      */
    rom("LVII");
