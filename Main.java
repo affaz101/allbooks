@@ -8,7 +8,7 @@ public class Main {
   
      /*
      TTRA
-     BTS
+     BTS2
      Symbol Value
 I 1
 V 5
@@ -35,7 +35,7 @@ Example 5:
 Input: s = "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
-     
+     w h h 6
      */
    rom("LVII");
   
